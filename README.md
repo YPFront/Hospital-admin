@@ -42,18 +42,6 @@ ADMIN, Features
 
 Admin Dashboard Features
 
-- Angular Version
-
-- Bootstrap 4x (version 4.5.0)
-
-- Powered by SASS
-
-- Dark and Light layouts Just one click
-
-- LTR - RTL demos Just one click
-
-- 7 Beautiful color schemes with Flat & Gradient colors Just one click
-
 - 4 Pre-built Dashboard design (Analytics, Cryptocurrency, Campaign, & eCommerce Analytics)
 
 - Fully Responsive Layout
