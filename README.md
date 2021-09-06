@@ -1,6 +1,6 @@
 # Hospital-admin
 
-Hospital Bootstrap4 Hospital Admin with Front end technology Angular.js. 
+Hospital Bootstrap4 Hospital Admin with Front end technology Angular 10. 
 
 It is a complete solution for Hospital Management.
 
