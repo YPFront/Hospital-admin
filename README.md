@@ -1,69 +1,69 @@
 # Hospital-admin
 
-**Hospital Bootstrap4 Hospital Admin with Front end technology Angular.js. 
+Hospital Bootstrap4 Hospital Admin with Front end technology Angular.js. 
 
-***It is a complete solution for Hospital Management.
+It is a complete solution for Hospital Management.
 
-**HOSPITAL, Features
+HOSPITAL, Features
 
-***-- Main Dashboard with COVID-19 Dashboard
+- Main Dashboard with COVID-19 Dashboard
 
-***-- Doctor's (List, Add, Profile)
+- Doctor's (List, Add, Profile)
 
-***-- Appointment
+- Appointment
 
-***-- Doctor, Todo list
+- Doctor, Todo list
 
-***-- Patients (List, Add, Profile)
+- Patients (List, Add, Profile)
 
-***-- Room Allotment
+- Room Allotment
 
-***-- Departments
+- Departments
 
-***-- Payments ( Add new, Invoices, Invoices list)\
+- Payments ( Add new, Invoices, Invoices list)\
 
-**ADMIN, Features
+ADMIN, Features
 
-***-- Inbox App
+- Inbox App
 
-***-- Chat App
+- Chat App
 
-***-- Staffs Management
+- Staffs Management
 
-***-- Contacts (List, Grid with Google )
+- Contacts (List, Grid with Google )
 
-***-- File Manager
+- File Manager
 
-***-- Hospital Centres
+- Hospital Centres
 
-***-- Blog post
+- Blog post
 
-***-- Social Profile\
+- Social Profile
 
-**Admin Dashboard Features
+Admin Dashboard Features
 
-***-- Angular Version
+- Angular Version
 
-***-- Bootstrap 4x (version 4.5.0)
+- Bootstrap 4x (version 4.5.0)
 
-***-- Powered by SASS
+- Powered by SASS
 
-***-- Dark and Light layouts Just one click
+- Dark and Light layouts Just one click
 
-***-- LTR - RTL demos Just one click
+- LTR - RTL demos Just one click
 
-***-- 7 Beautiful color schemes with Flat & Gradient colors Just one click
+- 7 Beautiful color schemes with Flat & Gradient colors Just one click
 
-***-- 4 Pre-built Dashboard design (Analytics, Cryptocurrency, Campaign, & eCommerce Analytics)
+- 4 Pre-built Dashboard design (Analytics, Cryptocurrency, Campaign, & eCommerce Analytics)
 
-***-- Fully Responsive Layout
+- Fully Responsive Layout
 
-***-- Flexible Charts and Maps
+- Flexible Charts and Maps
 
-***-- Custom design for DataTables
+- Custom design for DataTables
 
-***-- Pre-built Apps (Mailbox, Chat, Contacts, Calendar, To-do, Notes, File Manager, Blog, Social page etc.)
+- Pre-built Apps (Mailbox, Chat, Contacts, Calendar, To-do, Notes, File Manager, Blog, Social page etc.)
 
-***-- Pre-built Pages (Search Page, Profile, Invoices, Timeline, Pricing, Image Gallery, Signin, Signup, Error Page, etc.)
+- Pre-built Pages (Search Page, Profile, Invoices, Timeline, Pricing, Image Gallery, Signin, Signup, Error Page, etc.)
 
-***-- Compatible with all latest Browsers
+- Compatible with all latest Browsers
